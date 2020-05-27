@@ -299,13 +299,10 @@ hr {
     float: right;
     background-image: url("../img/github-logo.png");
 }
-.tistory {
+.linkedin {
     float: right;
-    background-image: url("../img/tistory-logo.svg");
-    /*
-        로고 출처 : https://marshall-ku.tistory.com/134
-        감사합니다!!
-    */
+    background-image: url("../img/LI-In-Bug.png");
+    /* https://brand.linkedin.com/downloads */
 }
     
 /* qna로 넘어갈 때 display: block; */
@@ -320,7 +317,7 @@ hr {
     border: 3px solid #ddd;
     border-radius: 20px;
     background: #fff;
-    animation: fade-in 0.3s ease-in-out;
+    animation: fade-in 0.1s ease-in-out; /* 수정-확인필요 */
 }
 .status {
     height: 100%;
