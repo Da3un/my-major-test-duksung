@@ -196,6 +196,7 @@ hr {
     animation: fade-in 0.4s ease-out 0.9s both, 
             going-down 0.4s ease-out 0.9s both;
   line-height: 20px;
+  width: 85%;
 }
 #welcome > p:first-of-type {
     padding: 0 5%;
