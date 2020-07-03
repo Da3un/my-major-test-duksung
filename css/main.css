@@ -195,8 +195,9 @@ hr {
 .w-line {
     animation: fade-in 0.4s ease-out 0.9s both, 
             going-down 0.4s ease-out 0.9s both;
-  line-height: 20px;
-  width: 85%;
+  line-height: 25px;
+  width: 90%;
+  align: center;
 }
 #welcome > p:first-of-type {
     padding: 0 5%;
